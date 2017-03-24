@@ -1,0 +1,1 @@
+When you need to build game use "python setup.py build" in command window in this folder
